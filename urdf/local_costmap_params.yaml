@@ -1,9 +1,0 @@
-move_base:
-  global_planner: "navfn/NavfnPlanner"
-  local_planner: "dwa_local_planner/DWALocalPlanner"
-  controller_frequency: 10.0
-  planner_frequency: 1.0
-  max_vel_x: 0.5
-  min_vel_x: 0.1
-  acc_lim_x: 0.2
-  max_vel_theta: 1.0

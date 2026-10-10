@@ -1,3 +1,0 @@
-[console_scripts]
-imu_node = custom_control_key.imu_node:main
-
